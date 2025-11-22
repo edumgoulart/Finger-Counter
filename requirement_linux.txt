@@ -2,3 +2,6 @@ opencv-python
 mediapipe
 pyalsaaudio
 pyautogui
+fastapi
+uvicorn
+python-multipart
